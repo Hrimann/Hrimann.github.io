@@ -1,12 +1,12 @@
  body{
- 	margin: 0px;
+ margin: 0px;
+ margin-top: -40px;
 }
 
 .logo {
 width: 230px;
 height: 230px;
 padding-top: 75px;
-
 }
 
 #logo{
@@ -45,7 +45,9 @@ letter-spacing: 0.11em;
 font-size: 22px;
 line-height: 31px;
 }
-
+a{
+	text-decoration:none;
+}
 
 .hr2 {	
 	height: 2px;
