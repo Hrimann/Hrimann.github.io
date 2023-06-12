@@ -5,5 +5,9 @@ height: 200px;
 padding-top: 75px;
 display: flex;
 justify-content: center;
-	}
+}
+.img {
+	width: 100px;
+	height:200px	}
+
 }
